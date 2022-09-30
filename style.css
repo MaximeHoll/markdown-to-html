@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(178, 190, 219);
+  }
+
+  img {
+    width: 150px;
+    height: auto;
+  }
+
+  h2 {
+    color: blue;
+  }
+  p {
+    color: green;
+    font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  table {
+    color: black;
+    border: 2px solid green;
+
+   
+  }
+  td {
+    border: 2px solid green;
+}
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+
+p2 {
+    font-weight: normal;
+    font-size: x-small;
+}
+
+p3{
+    font-weight: normal;
+    font-size: x-small;
+}
+
+p4 {
+    font-weight: normal;
+    font-size: xx-small;
+}
